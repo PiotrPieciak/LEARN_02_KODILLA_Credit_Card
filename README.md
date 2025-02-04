@@ -29,14 +29,14 @@ To run this project, you need **Python** and **Jupyter Notebook** installed and 
 1. Download the repository
 Click on the **Code** button and select **Download ZIP** or clone the repository using Git:	
  	```
-	git clone https://github.com/PiotrPieciak/LEARN_01_KAGGLE_Titanic.git
-	cd LEARN_01_KAGGLE_Titanic
+	git clone https://github.com/PiotrPieciak/LEARN_02_KODILLA_Credit_Card.git
+	cd LEARN_02_KODILLA_Credit_Card
  	```
   
 3. Create and activate a Conda environment (optional but recommended)
 	```
-	conda create --name titanic_env python=3.10
-	conda activate titanic_env
+	conda create --name Credit_Card python=3.10
+	conda activate Credit_Card
 	```
  
 4. Instal required dependencies:
@@ -50,10 +50,10 @@ Click on the **Code** button and select **Download ZIP** or clone the repository
   	```
  
 6. Run the project
-* Open LEARN_01_KAGGLE_Titanic_dataset.ipynb in Jupyter Notebook.
+* Open LEARN_02_KODILLA_Credit_Card_Defaulter_Prediction.ipynb in Jupyter Notebook.
 * Run all cells to execute the analysis.
 
-**Note:**  The dataset (Titanic-Dataset.csv) must be in the same folder as the notebook for the code to work correctly.
+**Note:**  The dataset (default_of_credit_card_clients.xls) must be in the same folder as the notebook for the code to work correctly.
 
 ## Dependencies
 * imbalanced-learn==0.12.4
