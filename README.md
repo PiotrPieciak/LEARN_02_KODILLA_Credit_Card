@@ -19,6 +19,8 @@ The main goal was to optimize the performance for fraud cases, focusing on a spe
 
 This project was fully completed by me and based on knowladge and skills leaned during five-month course. In my analysis, I compare different methods and share insights on what works best for detecting credit card fraud.
 
+I achieved weighted avg F1-score 0.776 with recall 0.622 and precision 0.479 for class 1 (frauds). Recall was increased 74% compared to basic model with the cost of precision. 
+
 ## Dataset 
 The dataset was provided by Kodilla and I received permission to share it on the public GitHub repository.
 
